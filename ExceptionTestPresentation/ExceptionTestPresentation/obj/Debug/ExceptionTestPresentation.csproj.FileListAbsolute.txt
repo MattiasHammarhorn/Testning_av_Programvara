@@ -1,0 +1,6 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\ExceptionTestPresentation\ExceptionTestPresentation\bin\Debug\ExceptionTestPresentation.exe.config
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\ExceptionTestPresentation\ExceptionTestPresentation\bin\Debug\ExceptionTestPresentation.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\ExceptionTestPresentation\ExceptionTestPresentation\bin\Debug\ExceptionTestPresentation.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\ExceptionTestPresentation\ExceptionTestPresentation\obj\Debug\ExceptionTestPresentation.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\ExceptionTestPresentation\ExceptionTestPresentation\obj\Debug\ExceptionTestPresentation.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\ExceptionTestPresentation\ExceptionTestPresentation\obj\Debug\ExceptionTestPresentation.pdb

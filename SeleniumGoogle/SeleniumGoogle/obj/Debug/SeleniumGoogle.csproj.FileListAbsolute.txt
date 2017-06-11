@@ -1,0 +1,10 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\SeleniumGoogle.exe.config
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\SeleniumGoogle.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\SeleniumGoogle.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.Support.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.xml
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.Support.xml
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\obj\Debug\SeleniumGoogle.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\obj\Debug\SeleniumGoogle.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\SeleniumGoogle\SeleniumGoogle\obj\Debug\SeleniumGoogle.pdb

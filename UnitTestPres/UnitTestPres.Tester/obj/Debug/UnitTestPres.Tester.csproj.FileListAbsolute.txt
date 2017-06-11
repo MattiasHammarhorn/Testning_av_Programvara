@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\bin\Debug\UnitTestPres.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\bin\Debug\UnitTestPres.Tester.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\bin\Debug\nunit.framework.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\bin\Debug\UnitTestPres.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\bin\Debug\UnitTestPres.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\bin\Debug\nunit.framework.xml
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\obj\Debug\UnitTestPres.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\obj\Debug\UnitTestPres.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres.Tester\obj\Debug\UnitTestPres.Tester.pdb

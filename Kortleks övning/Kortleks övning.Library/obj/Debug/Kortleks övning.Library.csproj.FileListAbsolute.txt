@@ -1,0 +1,5 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Library\bin\Debug\Kortleks övning.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Library\bin\Debug\Kortleks övning.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Library\obj\Debug\Kortleks övning.Library.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Library\obj\Debug\Kortleks övning.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Library\obj\Debug\Kortleks övning.Library.pdb

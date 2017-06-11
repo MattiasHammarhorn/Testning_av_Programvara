@@ -1,0 +1,8 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\bin\Debug\Projektarbete.exe.config
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\bin\Debug\Projektarbete.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\bin\Debug\Projektarbete.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\obj\Debug\Projektarbete.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\obj\Debug\Projektarbete.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\bin\Debug\Projektarbete.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\bin\Debug\Projektarbete.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete\obj\Debug\Projektarbete.csprojResolveAssemblyReference.cache

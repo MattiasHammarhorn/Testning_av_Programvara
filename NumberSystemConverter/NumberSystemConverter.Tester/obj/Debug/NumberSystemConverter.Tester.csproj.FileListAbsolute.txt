@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\bin\Debug\NumberSystemConverter.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\bin\Debug\NumberSystemConverter.Tester.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\bin\Debug\nunit.framework.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\bin\Debug\RomanNumeralConverter.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\bin\Debug\nunit.framework.xml
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\obj\Debug\NumberSystemConverter.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\obj\Debug\NumberSystemConverter.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\NumberSystemConverter.Tester\obj\Debug\NumberSystemConverter.Tester.pdb

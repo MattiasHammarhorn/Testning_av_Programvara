@@ -1,0 +1,8 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\bin\Debug\TDD Input Output.exe.config
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\bin\Debug\TDD Input Output.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\bin\Debug\TDD Input Output.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\obj\Debug\TDD Input Output.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\obj\Debug\TDD Input Output.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\obj\Debug\TDD Input Output.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\bin\Debug\TDD Input Output.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\TDD Input Output\TDD Input Output\bin\Debug\TDD Input Output.Library.pdb

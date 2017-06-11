@@ -1,0 +1,10 @@
+C:\Users\SimonBaghdoT4Q\Documents\Visual Studio 2015\Projects\TestningAvProgramvara\NumberSystemConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.dll
+C:\Users\SimonBaghdoT4Q\Documents\Visual Studio 2015\Projects\TestningAvProgramvara\NumberSystemConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\SimonBaghdoT4Q\Documents\Visual Studio 2015\Projects\TestningAvProgramvara\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
+C:\Users\SimonBaghdoT4Q\Documents\Visual Studio 2015\Projects\TestningAvProgramvara\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.dll
+C:\Users\SimonBaghdoT4Q\Documents\Visual Studio 2015\Projects\TestningAvProgramvara\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\NumberSystemConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb

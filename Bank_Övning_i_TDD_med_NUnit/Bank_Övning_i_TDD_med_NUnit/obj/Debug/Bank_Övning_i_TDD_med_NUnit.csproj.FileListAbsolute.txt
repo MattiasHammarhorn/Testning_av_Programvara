@@ -1,0 +1,5 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit\bin\Debug\Bank_Övning_i_TDD_med_NUnit.exe.config
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit\bin\Debug\Bank_Övning_i_TDD_med_NUnit.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit\bin\Debug\Bank_Övning_i_TDD_med_NUnit.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit\obj\Debug\Bank_Övning_i_TDD_med_NUnit.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit\obj\Debug\Bank_Övning_i_TDD_med_NUnit.pdb

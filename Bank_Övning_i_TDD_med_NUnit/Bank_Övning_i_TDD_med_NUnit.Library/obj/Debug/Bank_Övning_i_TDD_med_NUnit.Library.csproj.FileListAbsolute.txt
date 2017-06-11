@@ -1,0 +1,5 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Library\bin\Debug\Bank_Övning_i_TDD_med_NUnit.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Library\bin\Debug\Bank_Övning_i_TDD_med_NUnit.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Library\obj\Debug\Bank_Övning_i_TDD_med_NUnit.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Library\obj\Debug\Bank_Övning_i_TDD_med_NUnit.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Library\obj\Debug\Bank_Övning_i_TDD_med_NUnit.Library.csprojResolveAssemblyReference.cache

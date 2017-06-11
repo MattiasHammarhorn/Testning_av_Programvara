@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\bin\Debug\Projektarbete.Library.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\bin\Debug\Projektarbete.Library.Tester.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\obj\Debug\Projektarbete.Library.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\obj\Debug\Projektarbete.Library.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\obj\Debug\Projektarbete.Library.Tester.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\bin\Debug\nunit.framework.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\bin\Debug\Projektarbete.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\bin\Debug\Projektarbete.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Projektarbete\Projektarbete.Library.Tester\bin\Debug\nunit.framework.xml

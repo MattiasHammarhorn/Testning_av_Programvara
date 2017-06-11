@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\bin\Debug\Bank_Övning_i_TDD_med_NUnit.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\bin\Debug\Bank_Övning_i_TDD_med_NUnit.Tester.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\bin\Debug\Bank_Övning_i_TDD_med_NUnit.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\bin\Debug\nunit.framework.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\bin\Debug\Bank_Övning_i_TDD_med_NUnit.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\bin\Debug\nunit.framework.xml
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\obj\Debug\Bank_Övning_i_TDD_med_NUnit.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\obj\Debug\Bank_Övning_i_TDD_med_NUnit.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Bank_Övning_i_TDD_med_NUnit\Bank_Övning_i_TDD_med_NUnit.Tester\obj\Debug\Bank_Övning_i_TDD_med_NUnit.Tester.pdb

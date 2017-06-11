@@ -1,0 +1,9 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\bin\Debug\Kortleks övning.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\bin\Debug\Kortleks övning.Tester.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\bin\Debug\Kortleks övning.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\bin\Debug\nunit.framework.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\bin\Debug\Kortleks övning.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\bin\Debug\nunit.framework.xml
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\obj\Debug\Kortleks övning.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\obj\Debug\Kortleks övning.Tester.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\Kortleks övning\Kortleks övning.Tester\obj\Debug\Kortleks övning.Tester.pdb

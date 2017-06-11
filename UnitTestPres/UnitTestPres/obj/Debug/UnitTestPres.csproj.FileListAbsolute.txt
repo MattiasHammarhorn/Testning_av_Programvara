@@ -1,0 +1,8 @@
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe.config
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.Library.dll
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.Library.pdb
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.exe
+C:\Users\Roger och Stina\Desktop\Testning av Programvara Labbar\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.pdb
